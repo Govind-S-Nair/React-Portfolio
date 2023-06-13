@@ -1,7 +1,9 @@
 # React-Portfolio
 
 ## About:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pretium, turpis ut pharetra aliquam, turpis neque tincidunt ante, dapibus porttitor dui tortor ac ante. Mauris fringilla accumsan ipsum, eget vestibulum sem vehicula in. Donec rhoncus luctus vehicula. Sed efficitur vitae purus vel tempor. Mauris efficitur dolor at egestas malesuada. Ut aliquam consequat erat a vestibulum. Proin blandit posuere eros nec lobortis. Fusce finibus, diam ac hendrerit tempor, neque massa lacinia orci, et efficitur leo purus vitae mi. Suspendisse interdum lobortis metus, luctus maximus mauris rutrum sit amet. Aliquam gravida urna facilisis metus mattis malesuada. In hac habitasse platea dictumst. Pellentesque a risus in sapien pretium condimentum. Praesent egestas mi eu metus varius, vel semper purus ultricies. Suspendisse fringilla ante ut laoreet vulputate.
+Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. This is my first venture into using Tailwind CSS, and I'm excited to present this website with its clean and elegant design. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
+
+Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity.
 
 ## Features:
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
