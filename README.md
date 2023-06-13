@@ -1,7 +1,7 @@
 # React-Portfolio
 
 ## About:
-Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. This is my first venture into using Tailwind CSS, and I'm excited to present this website with its clean and elegant design. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
+Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. This is my first venture into using Tailwind CSS, and I'm excited to present this website with its simple yet elegant design. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
 
 Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity.
 
