@@ -5,6 +5,8 @@ Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built wi
 
 Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity.
 
+<p><b>Note:</b> This project is currently a work in progress and may not be fully functional or complete. It is being actively developed to add additional features and improve existing functionality.</p>
+
 ## Features:
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 2. Nam vestibulum mauris vel dolor dignissim, quis pellentesque lacus commodo.
