@@ -18,6 +18,8 @@ Within this webpage, you'll find details about me, including my skills, experien
 8. Fusce dapibus leo ac justo ultricies euismod.
 9. Nam vel tellus vel mauris sollicitudin auctor quis vel ex.
 
+<p><b>Note:</b> The features listed above are currently placeholders and will be updated upon project completion. Please refer to the final version of this README for a comprehensive description of the project's features and functionalities.</p>
+
 ## Usage Instructions:
 
 ### Downloading or Cloning the Repository:
