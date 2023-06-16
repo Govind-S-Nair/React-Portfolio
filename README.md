@@ -3,7 +3,7 @@
 ## About:
 Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. This is my first venture into using Tailwind CSS, and I'm excited to present this website with its simple yet elegant design. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
 
-Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity.
+Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity. Furthermore, the website is hosted on Netlify, and you can conveniently access it through the link provided in the repository description.
 
 <p><b>Note:</b> This project is currently a work in progress and may not be fully functional or complete. It is being actively developed to add additional features and improve existing functionality.</p>
 
