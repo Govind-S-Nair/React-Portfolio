@@ -43,7 +43,7 @@ Within this webpage, you'll find details about me, including my skills, experien
 <p><b>Note:</b> You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</p>
 
 ## Screenshots: 
-<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Portfolio.png" alt="ReactPortfolio"/>
+<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/portfolio.png" alt="ReactPortfolio"/>
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the MIT License. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
