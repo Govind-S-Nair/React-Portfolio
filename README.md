@@ -1,4 +1,8 @@
 # React-Portfolio
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. This is my first venture into using Tailwind CSS, and I'm excited to present this website with its simple yet elegant design. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
