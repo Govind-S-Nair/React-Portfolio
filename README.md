@@ -46,7 +46,8 @@ Within this webpage, you'll find details about me, including my skills, experien
 6. The website should now load in your browser, allowing you to explore its features and functionality.
 <p><b>Note:</b> You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</p>
 
-## Screenshots: 
+## Screenshots:
+<p align="center"><b>Home Page</b></p>
 <img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Home.png" alt="Home"/>
 
 ## MIT License: 
