@@ -53,9 +53,12 @@ Within this webpage, you'll find details about me, including my skills, experien
 ## Screenshots:
 <p align="center"><b>Home Page</b></p>
 <img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Home.png" alt="Home"/>
-<br>
+<hr>
 <p align="center"><b>About Page</b></p>
 <img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/About.png" alt="About"/>
+<hr>
+<p align="center"><b>Skills Page</b></p>
+<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Skills.png" alt="Skills"/>
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
