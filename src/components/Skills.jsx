@@ -5,7 +5,7 @@ import JavaScript from '../assets/JavaScript.png';
 import ReactJs from '../assets/React.png';
 import NodeJs from '../assets/Node.png';
 import Tailwind_CSS from '../assets/Tailwind_CSS.png';
-import MySQL from '../assets/MySQL.png';
+import Git from '../assets/Git.png';
 import GitHub from '../assets/GitHub.png';
 
 const Skills = () => {
@@ -43,8 +43,8 @@ const Skills = () => {
                         <p className="my-4">Tailwind CSS</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <img className="w-20 mx-auto" src={MySQL} alt="MySQL" />
-                        <p className="my-4">MySQL</p>
+                        <img className="w-20 mx-auto" src={Git} alt="Git" />
+                        <p className="my-4">Git</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={GitHub} alt="GitHub" />
