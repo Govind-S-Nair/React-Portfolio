@@ -1,6 +1,6 @@
 import React from "react";
 import Python from '../assets/Python.png';
-import Java from '../assets/Java.png';
+import Java from '../assets/java.png';
 import JavaScript from '../assets/JavaScript.png';
 import MySQL from '../assets/MySQL.png';
 import PostgreSQL from '../assets/PostgreSQL.png';
