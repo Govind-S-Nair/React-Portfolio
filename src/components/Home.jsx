@@ -10,9 +10,9 @@ const Home = () => {
                 <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">Govind S Nair</h1>
                 <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">I'm a Front-End Developer.</h2>
                 <p className="text-[#ccd6f6] text-xl py-4 max-w-[700px]">
-                    I'm a front-end developer specializing in responsive small-scale projects. 
-                    I'm passionate about crafting visually captivating websites that engage users and leave a lasting impression.
-                    Continuously learning and staying up to date with industry trends, I strive to deliver high-quality web experiences.
+                I'm an aspiring data analyst with a keen eye for detail and a passion for problem-solving. 
+                I strive to provide meaningful insights by continuously learning and staying up to date with industry trends. 
+                Dedicated to acquiring in-depth knowledge and practical skills in data analysis, I am committed to exploring the fascinating world of data.
                 </p>
                 <div>
                     <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#009867] hover:border-[#009867]">View Work
