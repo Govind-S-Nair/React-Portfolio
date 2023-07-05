@@ -4,7 +4,7 @@ import Java from '../assets/Java.png';
 import JavaScript from '../assets/JavaScript.png';
 import MySQL from '../assets/MySQL.png';
 import PostgreSQL from '../assets/PostgreSQL.png';
-import JupyterLab from '../assets/jupyter.png';
+import Excel from '../assets/Excel.png';
 import Git from '../assets/Git.png';
 import GitHub from '../assets/GitHub.png';
 
@@ -39,8 +39,8 @@ const Skills = () => {
                         <p className="my-4">PostgreSQL</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <img className="w-20 mx-auto" src={JupyterLab} alt="JupyterLab" />
-                        <p className="my-4">JupyterLab</p>
+                        <img className="w-20 mx-auto" src={Excel} alt="MS Excel" />
+                        <p className="my-4">MS Excel</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={Git} alt="Git" />
