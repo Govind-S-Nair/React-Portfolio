@@ -5,7 +5,7 @@ import JavaScript from '../assets/JavaScript.png';
 import MySQL from '../assets/MySQL.png';
 import PostgreSQL from '../assets/PostgreSQL.png';
 import Excel from '../assets/Excel.png';
-import Git from '../assets/Git.png';
+import JupyterLab from '../assets/JupyterLab.png';
 import GitHub from '../assets/GitHub.png';
 
 const Skills = () => {
@@ -43,8 +43,8 @@ const Skills = () => {
                         <p className="my-4">MS Excel</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <img className="w-20 mx-auto" src={Git} alt="Git" />
-                        <p className="my-4">Git</p>
+                        <img className="w-20 mx-auto" src={JupyterLab} alt="JupyterLab" />
+                        <p className="my-4">JupyterLab</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={GitHub} alt="GitHub" />
