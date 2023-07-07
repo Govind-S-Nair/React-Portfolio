@@ -6,6 +6,12 @@
    <a href="https://opensource.org/license/mit/">
       <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
+   <a href="https://react.dev">
+      <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
+   </a>
+   <a href="https://tailwindcss.com/">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
+   </a>
 </div>
 
 ## About:
