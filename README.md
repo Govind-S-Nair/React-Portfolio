@@ -1,8 +1,5 @@
 # React-Portfolio
 <div align="left">
-   <a href="https://github.com/g0v1ndN">
-      <img src="https://img.shields.io/badge/Code_Dealer-g0v1ndN-yellowgreen"/>
-   </a>
    <a href="https://opensource.org/osd">
       <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
