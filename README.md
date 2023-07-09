@@ -1,10 +1,10 @@
 # React-Portfolio
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://react.dev">
       <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
@@ -44,7 +44,7 @@ Within this webpage, you'll find details about me, including my skills, experien
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `https://github.com/Govind-S-Nair/React-Portfolio` to clone the repository to your local machine.
+2. Run the command `https://github.com/g0v1ndN/React-Portfolio` to clone the repository to your local machine.
 <p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
 
 ### Opening the website in a Web Browser:
@@ -58,13 +58,13 @@ Within this webpage, you'll find details about me, including my skills, experien
 
 ## Screenshots:
 <p align="center"><b>Home Page</b></p>
-<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Home.png" alt="Home"/>
+<img src="https://github.com/g0v1ndN/React-Portfolio/blob/main/Screenshots/Home.png" alt="Home"/>
 <hr>
 <p align="center"><b>About Page</b></p>
-<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/About.png" alt="About"/>
+<img src="https://github.com/g0v1ndN/React-Portfolio/blob/main/Screenshots/About.png" alt="About"/>
 <hr>
 <p align="center"><b>Skills Page</b></p>
-<img src="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/Screenshots/Skills.png" alt="Skills"/>
+<img src="https://github.com/g0v1ndN/React-Portfolio/blob/main/Screenshots/Skills.png" alt="Skills"/>
 
 ## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/React-Portfolio/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/React-Portfolio/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
