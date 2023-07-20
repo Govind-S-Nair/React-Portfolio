@@ -12,6 +12,9 @@
    <a href="https://tailwindcss.com/">
       <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
    </a>
+   <a href="">
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/Netlify.svg"/>
+   </a>
 </div>
 
 ## About:
