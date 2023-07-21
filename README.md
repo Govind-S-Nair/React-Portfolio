@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
    </a>
    <a href="https://app.netlify.com/sites/govindsnair/deploys">
-      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/Netlify.svg"/>
+      <img src="https://api.netlify.com/api/v1/badges/a920d991-df08-4559-978b-045d6c365e7a/deploy-status" alt="Netlify Status">
    </a>
 </div>
 
