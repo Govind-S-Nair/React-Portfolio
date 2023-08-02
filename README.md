@@ -71,6 +71,9 @@ Within this webpage, you'll find details about me, including my skills, experien
 <hr>
 <p align="center"><b>Work Page</b></p>
 <img src="https://github.com/g0v1ndN/React-Portfolio/blob/main/Screenshots/Work.png" alt="Work"/>
+<hr>
+<p align="center"><b>Contact Page</b></p>
+<img src="https://github.com/g0v1ndN/React-Portfolio/blob/main/Screenshots/Contact.png" alt="Contact"/>
 
 ## External Resources:
 
