@@ -28,9 +28,9 @@ Within this webpage, you'll find details about me, including my skills, experien
 ## Features:
 1. Mobile and desktop responsive layout for optimal viewing on various devices.
 2. Navbar for easy navigation and improved user interface, allowing users to access different sections easily.
-3. Different sections on the single webpage: About, Contact, Home, Skills, and Work.
+3. Different sections on the single webpage: About, Contact, Home, Skills and Work.
 4. Smooth scroll implemented using React for a seamless user experience while navigating between sections.
-5. Eye-catching and modern design to enhance visual appeal and create a visually pleasing user experience.
+5. Eye-catching design with Tailwind CSS for a visually pleasing user experience.
 6. Integrated Getforms.io for efficient form handling on the Contact section.
 7. Developed using Yarn as the package manager for dependency management and project building.
 8. Custom favicon for a unique and recognizable website icon in browser tabs.
