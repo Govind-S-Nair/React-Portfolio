@@ -6,8 +6,11 @@
    <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
-   <a href="https://react.dev">
+   <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
+   </a>
+   <a href="https://yarnpkg.com/">
+      <img src="https://img.shields.io/badge/Yarn-%232188b6" alt=Yarn"/>
    </a>
    <a href="https://tailwindcss.com/">
       <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
@@ -22,20 +25,15 @@ Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built wi
 
 Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity. Furthermore, the website is hosted on Netlify, and you can conveniently access it through the link provided in the repository description.
 
-<p><b>Note:</b> This project is currently a work in progress and may not be fully functional or complete. It is being actively developed to add additional features and improve existing functionality.</p>
-
 ## Features:
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-2. Nam vestibulum mauris vel dolor dignissim, quis pellentesque lacus commodo.
-3. Nullam imperdiet lacus eget hendrerit hendrerit.
-4. Ut ac quam et elit scelerisque mattis.
-5. Maecenas ornare nisl at nibh porta, cursus pellentesque nulla vulputate.
-6. Cras sagittis lacus ornare odio accumsan, a luctus nisi rhoncus.
-7. Mauris luctus enim varius pharetra pretium.
-8. Fusce dapibus leo ac justo ultricies euismod.
-9. Nam vel tellus vel mauris sollicitudin auctor quis vel ex.
-
-<p><b>Note:</b> The features listed above are currently placeholders and will be updated upon project completion. Please refer to the final version of this README for a comprehensive description of the project's features and functionalities.</p>
+1. Mobile and desktop responsive layout for optimal viewing on various devices.
+2. Navbar for easy navigation and improved user interface, allowing users to access different sections easily.
+3. Different sections on the single webpage: About, Contact, Home, Skills, and Work.
+4. Smooth scroll implemented using React for a seamless user experience while navigating between sections.
+5. Eye-catching and modern design to enhance visual appeal and create a visually pleasing user experience.
+6. Integrated Getforms.io for efficient form handling on the Contact section.
+7. Developed using Yarn as the package manager for dependency management and project building.
+8. Custom favicon for a unique and recognizable website icon in browser tabs.
 
 ## Usage Instructions:
 
