@@ -50,8 +50,8 @@ Within this webpage, you'll find details about me, including my skills, experien
 
 ### Opening the website in a Web Browser:
 1. Open a terminal or command prompt and navigate to the directory where the React website files are located.
-2. Install the necessary dependencies by running the command: `npm install`.
-3. Once the installation is complete, start the development server by running the command: `npm start`.
+2. Install the necessary dependencies by running the command: `yarn install`.
+3. Once the installation is complete, start the development server by running the command: `yarn start`.
 4. The React website will now be running on a local server and can be accessed through your web browser.
 5. Open your preferred web browser and enter the URL: http://localhost:3000 (or a different port if specified).
 6. The website should now load in your browser, allowing you to explore its features and functionality.
