@@ -6,11 +6,11 @@
    <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
+   <a href="https://classic.yarnpkg.com/lang/en/">
+      <img src="https://img.shields.io/badge/yarn-v1.22.19-%232188b6" alt="yarn"/>
+   </a>
    <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
-   </a>
-   <a href="https://yarnpkg.com/">
-      <img src="https://img.shields.io/badge/Yarn-%232188b6" alt=Yarn"/>
    </a>
    <a href="https://tailwindcss.com/">
       <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
