@@ -1,6 +1,6 @@
 import React from "react";
 import WorkImg from "../assets/work.jpeg";
-import VirusInsights from "../assets/VirusInsights.png;
+import VirusInsights from "../assets/VirusInsights.png";
 
 const Work = () => {
     return(
