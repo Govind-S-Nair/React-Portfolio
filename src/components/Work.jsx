@@ -26,7 +26,7 @@ const Work = () => {
                                 <a href="https://github.com/g0v1ndN/Covid-SQL-Analytics">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                                 </a>
-                                <a href="https://github.com/g0v1ndN/Covid-SQL-Analytics/blob/main/covid_data_analysis.sql">
+                                <a href="https://github.com/g0v1ndN/Covid-SQL-Analytics/blob/main/analyze_covid.sql">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
