@@ -37,6 +37,12 @@ Within this webpage, you'll find details about me, including my skills, experien
 
 ## Usage Instructions:
 
+### Prerequisites:
+- Familiarity with React: Understanding React concepts and fundamentals is essential for effectively working with this project.
+- Node.js and npm: You'll need Node.js and npm (Node Package Manager) installed on your system to manage dependencies and run scripts.
+- Text Editor or Integrated Development Environment (IDE): You'll need a code editor to make changes to the project files. Popular choices include Visual Studio Code, Sublime Text, or Atom.
+- Web Browser: You'll need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge) to view and test your changes.
+
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
 2. Click on "Download ZIP" to download a compressed zip file of the repository.
@@ -55,7 +61,6 @@ Within this webpage, you'll find details about me, including my skills, experien
 4. The React website will now be running on a local server and can be accessed through your web browser.
 5. Open your preferred web browser and enter the URL: http://localhost:3000 (or a different port if specified).
 6. The website should now load in your browser, allowing you to explore its features and functionality.
-<p><b>Note:</b> You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</p>
 
 ## Screenshots:
 <p align="center"><b>Home Page</b></p>
