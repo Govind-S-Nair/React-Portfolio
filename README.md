@@ -7,13 +7,13 @@
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
    <a href="https://classic.yarnpkg.com/lang/en/">
-      <img src="https://img.shields.io/badge/Yarn-%232188b6" alt="yarn"/>
+      <img src="https://img.shields.io/badge/Yarn-%232188b6?logo=yarn&logoColor=white" alt="yarn"/>
    </a>
    <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black" alt="React"/>
    </a>
    <a href="https://tailwindcss.com/">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
    </a>
    <a href="https://app.netlify.com/sites/govindsnair/deploys">
       <img src="https://api.netlify.com/api/v1/badges/a920d991-df08-4559-978b-045d6c365e7a/deploy-status" alt="Netlify Status">
