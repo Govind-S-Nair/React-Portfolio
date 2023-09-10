@@ -3,7 +3,7 @@ name: Update Last Commit Link
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   update-readme:
@@ -15,7 +15,13 @@ jobs:
 
       - name: Get the last commit SHA
         id: last_commit
-        run: echo "::set-output name=commit::$(git rev-parse HEAD)"
+        run: |
+          git fetch --prune --unshallow
+          echo "::set-output name=commit::$(git rev-parse HEAD)"
+
+      - name: Debug Last Commit SHA
+        run: |
+          echo "Last Commit SHA: ${{ steps.last_commit.outputs.commit }}"
 
       - name: Update README
         run: |
