@@ -6,6 +6,9 @@
    <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
+   <a href="">
+      <img src="https://img.shields.io/github/last-commit/g0v1ndN/React-Portfolio/main" alt="last-commit"/>
+   </a>
    <a href="https://classic.yarnpkg.com/lang/en/">
       <img src="https://img.shields.io/badge/Yarn-%232188b6?logo=yarn&logoColor=white" alt="yarn"/>
    </a>
