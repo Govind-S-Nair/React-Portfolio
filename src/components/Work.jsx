@@ -1,6 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/work.jpeg";
 import VirusInsights from "../assets/analyze_covid.png";
+import StockMarket from "../assets/StockMarket.png";
 
 const Work = () => {
     return(
@@ -32,7 +33,7 @@ const Work = () => {
                             </div>
                         </div>
                     </div>
-                    <div style={{backgroundImage: `url(${WorkImg})`}}
+                    <div style={{backgroundImage: `url(${StockMarket})`}}
                     className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
                         
                         {/*Hover Effects */}
