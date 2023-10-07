@@ -25,9 +25,6 @@ const Work = () => {
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="https://github.com/g0v1ndN/Covid-SQL-Analytics">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
-                                <a href="https://github.com/g0v1ndN/Covid-SQL-Analytics/blob/main/analyze_covid.sql">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
@@ -39,13 +36,10 @@ const Work = () => {
                         {/*Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100">
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                Project #2
+                                Stock Market Prediction
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
-                                <a href="/">
+                                <a href="https://github.com/g0v1ndN/PredictiveStockAnalytics">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
@@ -60,9 +54,6 @@ const Work = () => {
                                 Project #3
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
                                 <a href="/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
@@ -79,9 +70,6 @@ const Work = () => {
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="/">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
-                                <a href="/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
@@ -97,9 +85,6 @@ const Work = () => {
                             </span>
                             <div className="pt-8 text-center">
                                 <a href="/">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
-                                <a href="/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
@@ -114,9 +99,6 @@ const Work = () => {
                                 Project #6
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
-                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                                </a>
                                 <a href="/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
