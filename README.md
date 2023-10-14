@@ -21,7 +21,7 @@
 </div>
 
 ## About:
-Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. Developed with the help of <a href="https://www.youtube.com/watch?v=2kg0z1qNrkw&t">Code Commerce's tutorial</a>, this is my first venture into using Tailwind CSS. It's been an incredible learning experience, exploring the possibilities that Tailwind CSS offers for creating stunning interfaces.
+Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. Developed with the help of <a href="https://www.youtube.com/watch?v=2kg0z1qNrkw&t">Code Commerce's tutorial</a>, this is my first venture into using React.js. It's been an incredible learning experience, exploring the possibilities that React offers for creating dynamic and interactive web interfaces.
 
 Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity. Furthermore, the website is hosted on Netlify, and you can conveniently access it through the link provided in the repository description.
 
@@ -52,7 +52,8 @@ Within this webpage, you'll find details about me, including my skills, experien
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command `git clone https://github.com/g0v1ndN/React-Portfolio` to clone the repository to your local machine.
-<p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
+> [!NOTE]
+> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the [official website](https://git-scm.com).
 
 ### Opening the website in a Web Browser:
 1. Open a terminal or command prompt and navigate to the directory where the React website files are located.
