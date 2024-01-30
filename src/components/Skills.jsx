@@ -2,7 +2,7 @@ import React from "react";
 import Python from '../assets/Python.png';
 import Java from '../assets/java.png';
 import JavaScript from '../assets/JavaScript.png';
-import MySQL from '../assets/MySQL.png';
+import R from '../assets/R.png';
 import PostgreSQL from '../assets/PostgreSQL.png';
 import Excel from '../assets/Excel.png';
 import JupyterLab from '../assets/JupyterLab.png';
@@ -23,16 +23,16 @@ const Skills = () => {
                         <p className="my-4">Python</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        <img className="w-20 mx-auto" src={R} alt="R" />
+                        <p className="my-4">R</p>
+                    </div>
+                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={Java} alt="Java" />
                         <p className="my-4">Java</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={JavaScript} alt="JavaScript" />
                         <p className="my-4">JavaScript</p>
-                    </div>
-                    <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <img className="w-20 mx-auto" src={MySQL} alt="MySQL" />
-                        <p className="my-4">MySQL</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <img className="w-20 mx-auto" src={PostgreSQL} alt="PostgreSQL" />
