@@ -2,7 +2,7 @@ import React from "react";
 import Python from '../assets/Python.png';
 import Java from '../assets/java.png';
 import JavaScript from '../assets/JavaScript.png';
-import R from '../assets/R.png';
+import R from '../assets/R_logo.png';
 import PostgreSQL from '../assets/PostgreSQL.png';
 import Excel from '../assets/Excel.png';
 import JupyterLab from '../assets/JupyterLab.png';
