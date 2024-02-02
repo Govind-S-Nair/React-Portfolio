@@ -21,9 +21,7 @@
 </div>
 
 ## About:
-Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. Developed with the help of <a href="https://www.youtube.com/watch?v=2kg0z1qNrkw&t">Code Commerce's tutorial</a>, this is my first venture into using React.js. It's been an incredible learning experience, exploring the possibilities that React offers for creating dynamic and interactive web interfaces.
-
-Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity. Furthermore, the website is hosted on Netlify, and you can conveniently access it through the link provided in the repository description.
+Hey there! I'm Govind S Nair, and I'm thrilled to showcase my portfolio built with React. Within this webpage, you'll find details about me, including my skills, experience, and a way to get in touch with me. I've also included a collection of my projects, which highlight my expertise and creativity. Furthermore, the website is hosted on Netlify, and you can conveniently access it through the link provided in the repository description.
 
 ## Features:
 1. Mobile and desktop responsive layout for optimal viewing on various devices.
