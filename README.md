@@ -95,4 +95,3 @@ This README includes third-party packages, each with its own license:
 
 ## License: 
 This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/React-Portfolio/blob/main/LICENSE">LICENSE</a> document.
-
